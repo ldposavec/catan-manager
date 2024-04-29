@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatanManager", "CatanManager\CatanManager.csproj", "{95E63722-6DE2-4448-9F8C-04E1C5924EBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95E63722-6DE2-4448-9F8C-04E1C5924EBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95E63722-6DE2-4448-9F8C-04E1C5924EBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95E63722-6DE2-4448-9F8C-04E1C5924EBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95E63722-6DE2-4448-9F8C-04E1C5924EBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFCD96F6-F472-44CE-8AC1-2655934E3564}
+	EndGlobalSection
+EndGlobal
