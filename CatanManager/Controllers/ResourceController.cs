@@ -14,7 +14,12 @@ namespace CatanManager.Controllers
     {
         private readonly IResourceService _resourceService;
 
-       [HttpGet]
+        public ResourceController(IResourceService resourceService)
+        {
+            _resourceService = resourceService;
+        }
+
+        [HttpGet]
        public IActionResult GetResources() {
 
             return Ok(_resourceService.GetResources());
